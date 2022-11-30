@@ -15,11 +15,8 @@
 
 ##  :camera: Snapshots of Project:
 <br>
-## v1
 
-
-
-You can see [Output]([https://loginpage-bahaasalha.netlify.app/]) here ! https://loginpage-bahaasalha.netlify.app/
+You can see [Output](https://loginpage-bahaasalha.netlify.app/) here !
 
 ![Final Output](https://user-images.githubusercontent.com/91798754/204902316-a5b42ab8-76ac-48cd-abee-00cff97630a4.png)
 
