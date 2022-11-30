@@ -15,17 +15,9 @@
 ##  :camera: Snapshots of Project:
 <br>
 
-
-<br>
-
- ![alt text](https://github.com/ayush-sleeping/Login-Page/blob/main/v2/Output.png)
- 
- <br>
- 
-
 ## v1
 
-You can see [Output](https://login-page-v1-ayushsleeping.netlify.app/) here !
+You can see [Output]([https://login-page-v1-ayushsleeping.netlify.app](https://loginpage-bahaasalha.netlify.app/) here !
 
 <br>
 
@@ -37,6 +29,6 @@ You can see [Output](https://login-page-v1-ayushsleeping.netlify.app/) here !
  
  <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by Eng.Bahaa Salha some of the repositories!
 
 </div>
