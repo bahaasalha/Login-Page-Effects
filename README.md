@@ -21,7 +21,7 @@ You can see [Output]([https://loginpage-bahaasalha.netlify.app/]) here !
 
 <br>
 
- ![alt text](https://loginpage-bahaasalha.netlify.app/)
+ ![alt text]([https://loginpage-bahaasalha.netlify.app/](https://github.com/ayush-sleeping/Login-Page/blob/main/v1/Final%20Output.png))
  
  <br>
  
