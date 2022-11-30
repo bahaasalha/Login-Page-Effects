@@ -17,11 +17,11 @@
 
 ## v1
 
-You can see [Output]([https://login-page-v1-ayushsleeping.netlify.app](https://loginpage-bahaasalha.netlify.app/) here !
+You can see [Output]([https://loginpage-bahaasalha.netlify.app/]) here !
 
 <br>
 
- ![alt text](https://github.com/ayush-sleeping/Login-Page/blob/main/v1/Final%20Output.png)
+ ![alt text](https://loginpage-bahaasalha.netlify.app/)
  
  <br>
  
